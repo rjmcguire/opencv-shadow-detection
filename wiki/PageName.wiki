@@ -1,5 +1,0 @@
-<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Object detection and
- shadow removal from video
- stream on Scribd" href="http://www.scribd.com/doc/126553206/Object-detection-and-shadow-removal-from-video-stream"  style="text-decoration: underline;" >Object detection and
- shadow removal from video
- stream</a> by   <a title="View Paolo Pino's profile on Scribd" href="http://www.scribd.com/paolo_pino"  style="text-decoration: underline;" >Paolo Pino</a> </p><iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/126553206/content?start_page=1&view_mode=scroll&access_key=key-1o16pnve0gik1xy3enc" data-auto-height="false" data-aspect-ratio="0.706697459584296" scrolling="no" id="doc_80089" width="100%" height="600" frameborder="0"></iframe>
